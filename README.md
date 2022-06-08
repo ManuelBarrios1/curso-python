@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Python.
 
-![](Imagenes\logo-python1.png) 
+![](https://github.com/ManuelBarrios1/curso-python/blob/main/Imagenes/logo-python1.png) 
 
 **Requisitos**
 - Python 3.6 o superior
